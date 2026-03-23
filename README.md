@@ -64,23 +64,17 @@ The file 'test_regex.py' contains test cases
 
 Both implementations have time complexity:
 
--DFA: O(n)
--Regex: O(n)
+-DFA:
+-Regex:
 
-this is because....
 
 
 ### Comparison
 
 DFA:
--
--
--
 
 Regex:
--
--
--
+
 
 
 ## References
