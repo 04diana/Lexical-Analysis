@@ -8,12 +8,14 @@ An Automaton is a machine, either real or abstract, it runs by itself in other w
 ## Models
 
 
-### DFA Diagram
+### NFA Diagram
+
+<img width="751" height="421" alt="Automata drawio" src="https://github.com/user-attachments/assets/b5f5ae56-f95b-4b5f-b50f-a49fdb2e59c6" />
 
 
 
-The DFA works by
-[Explain how it processes input]
+
+The NFA works by restricting all the sets that are prohibitted, those being 1101, 1122, 1011 or 1012 where each case would lead to a dead state and therefore reject those combinations. Going into Q5, is where the accepting states let there many combinations even so accepting strings with just one. 
 
 ### Regular Expression
 The equivalent regular expression for this language is:
