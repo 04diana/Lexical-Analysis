@@ -1,21 +1,16 @@
 # Lexical-Analysis
 
 ## Description
-The language I chose is:
+The language I chose is all combinations of 0,1,2 but it must not have 1101, 1122, 1011 or 1012.
+An Automaton is a machine, either real or abstract, it runs by itself in other words it is a computational model that constructs an input by moving through a series of states or configurations.  An DFA is a deterministic finite Automaton that is considered deterministic if for every input, there is only one transition and therefore the machine is fully predictable. On the other hand, NFA is a nondeterministic finite Automaton where every state can have multiple possible next states for the same input
 
 
 ## Models
 
-### DFA Description
-- Q: [states]
-- Σ: [alphabet]
-- q0: [start state]
-- F: [accepting states]
-- δ: [transition rules]
 
 ### DFA Diagram
 
-photo
+
 
 The DFA works by
 [Explain how it processes input]
